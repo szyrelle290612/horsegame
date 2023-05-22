@@ -1,0 +1,12 @@
+{
+    "public": {},
+    "redisOplog": {
+        "redis": {
+            "host": "localhost",
+            "port": 6379
+        }
+    },
+    "private": {
+        "email_secret": "smtps://hrteam2929@gmail.com:hxmheemqtrfcynio@smtp.gmail.com:465/"
+    }
+}
